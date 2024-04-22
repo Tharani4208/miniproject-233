@@ -1,0 +1,3 @@
+web page is loaded
+The Price is: ₹7,690
+The Price is: ₹25,680
